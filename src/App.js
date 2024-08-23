@@ -1,8 +1,8 @@
-import './App.css';
+import Body from './components/Body';
 
 const App = () => {
   return (
-    <div className='font-bold'>App</div>
+    <Body/>
   )
 }
 
